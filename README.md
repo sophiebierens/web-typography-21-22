@@ -13,9 +13,17 @@ De opdracht was om een website te coderen met HTML en CSS voor doven mensen. Op 
 ### Onderzoek
 Ik ben begonnen met onderzoek doen naar de film. De film was voor mijn nog één groot vraagteken en daarom ben ik een stuk van de film gaan kijken. Daarnaast heb ik ook een samenvatting gelezen van de film. Ik heb dit beide gedaan om een zo'n duidelijk mogelijk beeld van de film te krijgen. 
 
-Je levert ook een *screen recording* met audio op van je fragment. Dit is een video van de definitieve versie, gemaakt van jouw browserscherm.
+### Stappenplan
+Na het onderzoeken wat de film inhield ben ik gaan nadenken over een stappenplan wat ik wilde aanpakken en hoe. Ik heb hiervoor eerst het fragment meerdere keren heel goed beluisterd en nagedacht over welke geluiden ik wil gaan vormgeven en hoe. Ik vond het in het begin nog erg lastig om inspiratie op te doen hiervoor. Wat veel in mijn hoofd omging was; wat zijn de mogelijkheden en hoe pak ik dit aan? Ik heb pas sinds twee weken CSS en HTML onder de knie, dus dit was voor mij wel weer even nadenken wat er allemaal kan en of ik het kan. Toch wilde ik mezelf niet teveel beperken hierin, omdat ik van de vorige keer coderen weet dat ik meer kan dan ik misschien soms in eerste instantie denk. 
 
-## Typografische restricties
+Ik ben gestart met de lettertypes aanpassen. Hiervoor moest ik eerst kijken wie wat zegt. Hierna heb ik gekeken wat voor lettertype bij welke stem/personage paste. Ik merkte dat stem 1 een erg robot achtige stem had, maar stem 2 weer echt een mannelijke normale stem. Ook komt er een moment waarin er geschreeuwt wordt. Hier wilde ik ook een ander soort lettertype of vormgeving voor gebruiken. 
+
+### Codes
+Ik ben begonnen met eigenlijk van alles te proberen in de code te schrijven. Hierdoor kon ik kijken hoe alles uitpakte en wat er leuk uitzag, of wat juist niet. 
+
+Ik heb 
+
+## Week 2
 
 Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
 
