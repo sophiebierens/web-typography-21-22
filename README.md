@@ -1,27 +1,19 @@
 # Web Typography, 2020/2021
 
-Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als *closed caption*, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
+Sophie Bierens VID1 - 20222
 
-Alleen wordt die auditieve informatie nogal neutraal beschreven. Het geluid van huilend persoon zou bijvoorbeeld beschreven kunnen worden als *snikgeluid op de achtergrond*. En iemand die lacht zou geschreven kunnen worden als *iemand lacht.* Heel neutraal, bijna zakelijk, en bovendien allebei in precies hetzelfde neutrale lettertype. Terwijl het toch echt over twee heel verschillende emoties gaat. 
 
-Dat kan visueel sterker. 
+## De opdracht
 
-En dat gaan jullie doen.
+De opdracht was om een website te coderen met HTML en CSS voor doven mensen. Op deze website wordt een korte video getoond uit de film Blade Runner 2049. Aan mij de taak om deze video te ondertitelen en grafisch vorm  te geven. Dit moest op zo'n manier gebeuren dat de dove persoon die de video zou zien, een zelfde soort beleving zou ervaren als iemand die niet doof is.  
 
-## Leerdoelen
 
-- Je kan de kennis over vormgeving die je hebt opgedaan tijdens de minor technisch toepassen met behulp van CSS
-- Je kan verborgen nuance uit een audiotrack overtuigend vertalen naar visuele (typografische) beelden
-- Je kan je typografische keuzes onderbouwen.
-- Je hebt de exclusive design principles gebruikt.
+## Week 1
 
-## Oplevering
-
-Je levert een werkende versie op, gemaakt met HTML, CSS en JavaScript. Deze staat op Github. In een duidelijke readme documenteer en onderbouw je je ontwerpkeuzes. Je developmentgeschiedenis is terug te vinden op GitHub.
+### Onderzoek
+Ik ben begonnen met onderzoek doen naar de film. De film was voor mijn nog één groot vraagteken en daarom ben ik een stuk van de film gaan kijken. Daarnaast heb ik ook een samenvatting gelezen van de film. Ik heb dit beide gedaan om een zo'n duidelijk mogelijk beeld van de film te krijgen. 
 
 Je levert ook een *screen recording* met audio op van je fragment. Dit is een video van de definitieve versie, gemaakt van jouw browserscherm.
-
-De beoordeling is mondeling en volgt [de rubric uit het beoordelingsformulier](web-typografie-beoordeling.pdf).
 
 ## Typografische restricties
 
