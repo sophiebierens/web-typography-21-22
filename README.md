@@ -1,6 +1,6 @@
 # Web Typography, 2020/2021
 
-Sophie Bierens VID1 - 20222
+Sophie Bierens VID1 - 2022
 
 
 ## De opdracht
