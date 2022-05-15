@@ -44,7 +44,7 @@ Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
 ## Ontwerpkeuzes
 
 ### Typografie
-Ik heb voor optie 2 gekozen voor de typgrafie, het font Brenner. Ik heb voor het font Brenner gekozen omdat je er heel veel kanten mee op kan. Ik heb onderzoek gedaan naar dit font via de website [Typotheque]. (https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices).
+Om erachter te komen welk font het beste paste bij mijn video, heb ik onderzoek gedaan naar het font ''Brenner'' via de website [Typotheque](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Hier was te lezen dat dit font geen beperkingen heeft op het gebied van contrast. Dit in tegenstelling tot de systeemfonts. In de video wordt onder anderen geschreeuwd en is er gebruik gemaakt van een krachtige robotachtige stem. Voor deze stemmen vond ik dat er ook een krachtig en duidelijk lettertype bij hoorde. Ik heb daarom voor het font ''Brenner'' gekozen omdat je er heel veel kanten mee op kan. Zo past het font ''Brenner Mono'' heel goed bij de robot stem door het typemachine effect. In de film zie je verschillende high tech schermen. Dit deed mij denken aan een soort sci fi game elementen. Ik heb dit op Pinterest opgezocht 
 
 ### De captions
 
