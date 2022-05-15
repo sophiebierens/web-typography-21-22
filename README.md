@@ -41,9 +41,10 @@ Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfo
 
 Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
 
-## Het fragment
+## Ontwerpkeuzes
 
-Ik heb een fragment voorbereid. Het gaat om twee scenes uit *Blade Runner 2049*. De captions staan in de HTML, en ze verschijnen in sync met de video. [Kijk maar](closed-captions/index.html).
+### Typografie
+Ik heb voor optie 2 gekozen voor de typgrafie, het font Brenner. Ik heb voor het font Brenner gekozen omdat je er heel veel kanten mee op kan. Ik heb onderzoek gedaan naar dit font via de website [Typotheque]. (https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices).
 
 ### De captions
 
