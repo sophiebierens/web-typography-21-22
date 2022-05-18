@@ -21,11 +21,17 @@ Ik ben gestart met de lettertypes aanpassen. Hiervoor moest ik eerst kijken wie 
 ### Codes
 Ik ben begonnen met eigenlijk van alles te proberen in de code te schrijven. Hierdoor kon ik kijken hoe alles uitpakte en wat er leuk uitzag, of wat juist niet. 
 
-Ik heb 
+### Obstakels 
+Ik wilde graag mijn video zo hebben dat de laadbalk en logo/informatie van YouTube wegvielen. Helaas na veel proberen lukte mij dit niet zelf en heb ik daarom hulp gevraagd aan Timo. Hij heeft mij geholpen hierbij. Helaas kwam daardoor wel een nieuw probleem, mijn boxshadow deed niet meer wat hij hoorde te doen doordat het scherm nu aangepast was. Hier heeft hij mij ook bij geholpen om dit weer correct te laten verlopen. 
+
 
 ## Week 2
 
-Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
+### Obstakels 
+Ik ben b
+
+### Feedback 
+Ik Op dinsdag hebben we een feedback moment gehad met Vasilis. Hij was enthausiast over mijn video maar er zaten nog wel een paar verbeterpunten. Hij vond dat de timing van mijn visuals in mijn video goed liep met het geluid. Ook gaf hij aan dat er echt goed irritante momenten in de video zaten. Als feedback gaf hij dat de tekst wel iets naar boven verplaatst mocht worden. Ook vond hij dat het moment waar er 'Fuck-off!' gezegd werd nog te schreeuwend vormgegeven werd. Zelf kwam ik halverwege mijn video erachter dat er nog een deel tekst niet de goede kleur had. Al deze punten heb ik hierna aangepast.
 
 ### Optie 1: Systeemfont
 
@@ -60,7 +66,8 @@ Hierna is de flashback te zien. Hier veranderd de achtergrond kleur naar wit, sa
 
 
 
-### Bronnen
+## Bronnen
+Ik heb verschillende bronnen gebruikt om te kijken hoe ik bepaalde designs kon maken of om informatie op te doen.
 
 1. https://www.w3schools.com/howto/howto_css_shake_image.asp
 2. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients
