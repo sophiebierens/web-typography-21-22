@@ -62,12 +62,12 @@ Hierna is de flashback te zien. Hier veranderd de achtergrond kleur naar wit, sa
 
 ### Bronnen
 
-https://www.w3schools.com/howto/howto_css_shake_image.asp
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients
-https://nl.pinterest.com/pin/855121048009194043/
-https://www.30secondsofcode.org/css/s/zoomin-zoomout-animation 
-https://cssgradient.io/
-https://developer.mozilla.org/en-US/docs/Web/CSS/filter
+1. https://www.w3schools.com/howto/howto_css_shake_image.asp
+2. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients
+3. https://nl.pinterest.com/pin/855121048009194043/
+4. https://www.30secondsofcode.org/css/s/zoomin-zoomout-animation 
+5. https://cssgradient.io/
+6. https://developer.mozilla.org/en-US/docs/Web/CSS/filter
 
 
 
