@@ -28,24 +28,10 @@ Ik wilde graag mijn video zo hebben dat de laadbalk en logo/informatie van YouTu
 ## Week 2
 
 ### Obstakels 
-Ik ben b
+Ik wilde graag een gradient toevoegen in mijn design. Ik heb op vele website naar informatie gezocht en veel dingen uitgeprobeerd, maar het werkte niet. Ik heb hierna advies gevraagd aan Sam en hij heeft mij geholpen om dit voor elkaar te krijgen. Het was veel proberen, maar het is ons uiteindelijk gelukt om het zo te krijgen hoe ik het wilde. Eigenlijk stond ik al op het punt om het op te geven, maar ik wilde het toch wel heel graag in mijn fragment toevoegen. Ik ben blij dat ik het uiteindelijk nog aan Sam heb gevraagd, want hierdoor heb ik wel het element er in wat ik wilde. 
 
 ### Feedback 
 Ik Op dinsdag hebben we een feedback moment gehad met Vasilis. Hij was enthausiast over mijn video maar er zaten nog wel een paar verbeterpunten. Hij vond dat de timing van mijn visuals in mijn video goed liep met het geluid. Ook gaf hij aan dat er echt goed irritante momenten in de video zaten. Als feedback gaf hij dat de tekst wel iets naar boven verplaatst mocht worden. Ook vond hij dat het moment waar er 'Fuck-off!' gezegd werd nog te schreeuwend vormgegeven werd. Zelf kwam ik halverwege mijn video erachter dat er nog een deel tekst niet de goede kleur had. Al deze punten heb ik hierna aangepast.
-
-### Optie 1: Systeemfont
-
-De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. 
-
-Je hebt dus geen controle over welk lettertype er precies gebruikt wordt. Het levert dus een onzeker, en beperkt typografisch palet op. Je hebt geen *light* versies, of *extrabold*. En ook geen serif en sans-serif versie van dezelfde familie. In dit geval heb je alleen de beschikking over normal, **bold** en _italic_. Dit heeft natuurlijk ook zijn voordelen!
-
-### Optie 2: Brenner
-
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
-
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
-
-Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
 
 ## Ontwerpkeuzes
 
