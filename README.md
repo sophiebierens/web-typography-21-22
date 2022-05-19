@@ -31,8 +31,6 @@ Ik wilde graag een gradient toevoegen in mijn design. Ik heb op vele website naa
 ### Feedback 
 Ik Op dinsdag hebben we een feedback moment gehad met Vasilis. Hij was enthausiast over mijn video maar er zaten nog wel een paar verbeterpunten. Hij vond dat de timing van mijn visuals in mijn video goed liep met het geluid. Ook gaf hij aan dat er echt goed irritante momenten in de video zaten. Als feedback gaf hij dat de tekst wel iets naar boven verplaatst mocht worden. Ook vond hij dat het moment waar er 'Fuck-off!' gezegd werd nog te schreeuwend vormgegeven werd. Zelf kwam ik halverwege mijn video erachter dat er nog een deel tekst niet de goede kleur had. Al deze punten heb ik hierna aangepast.
 
-Ook heb ik nog een keer mijn website laten zien aan mijn vader. Ik heb hem eerst de video laten zien zonder geluid. Daarna heb ik hem de video laten zien met geluid. Dit heb ik expres gedaan om ervoor te zorgen dat hij niet wist wat hij kon verwachten.
-
 ## Ontwerpkeuzes
 
 ### Typografie
