@@ -5,7 +5,7 @@ Sophie Bierens VID1 - 2022
 
 ## De opdracht
 
-De opdracht was om een website te coderen met HTML en CSS voor doven mensen. Op deze website wordt een korte video getoond uit de film Blade Runner 2049. Aan mij de taak om deze video te ondertitelen en grafisch vorm  te geven. Dit moest op zo'n manier gebeuren dat de dove persoon die de video zou zien, een zelfde soort beleving zou ervaren als iemand die niet doof is.  
+De opdracht was om een website te coderen met HTML en CSS voor doven mensen. Op deze website wordt een korte video getoond uit de film Blade Runner 2049. Aan mij de taak om deze video te ondertitelen en grafisch vorm te geven. Dit moest op zo'n manier gebeuren dat de dove persoon die de video zou zien, een zelfde soort beleving zou ervaren als iemand die niet doof is.  
 
 
 ## Week 1
@@ -31,8 +31,7 @@ Ik wilde graag een gradient toevoegen in mijn design. Ik heb op vele website naa
 ### Feedback 
 Ik Op dinsdag hebben we een feedback moment gehad met Vasilis. Hij was enthausiast over mijn video maar er zaten nog wel een paar verbeterpunten. Hij vond dat de timing van mijn visuals in mijn video goed liep met het geluid. Ook gaf hij aan dat er echt goed irritante momenten in de video zaten. Als feedback gaf hij dat de tekst wel iets naar boven verplaatst mocht worden. Ook vond hij dat het moment waar er 'Fuck-off!' gezegd werd nog te schreeuwend vormgegeven werd. Zelf kwam ik halverwege mijn video erachter dat er nog een deel tekst niet de goede kleur had. Al deze punten heb ik hierna aangepast.
 
-### Test
-Om te testen of mijn website het gewenste effect gaf heb ik het getest op mijn vader. Ik heb hem eerst de video laten zien zonder geluid. Daarna heb ik hem de video laten zien met geluid. Dit heb ik expres gedaan om ervoor te zorgen dat hij niet wist wat hij kon verwachten. Hij vond de effecten 
+Ook heb ik nog een keer mijn website laten zien aan mijn vader. Ik heb hem eerst de video laten zien zonder geluid. Daarna heb ik hem de video laten zien met geluid. Dit heb ik expres gedaan om ervoor te zorgen dat hij niet wist wat hij kon verwachten.
 
 ## Ontwerpkeuzes
 
@@ -41,9 +40,9 @@ Om erachter te komen welk font het beste paste bij mijn video, heb ik onderzoek 
 
 ### Visuals
 
-De achtergrond heb ik bewust donker en rustig gehouden. De achtergrond moet niet afleiden van de video, die centraal staat. Ik heb voor een donkere kleur gekozen, omdat de film ook erg donker, grauw en duister eruit ziet. Vanaf 1:28 min. is er een flashback te zien. Vanaf dit moment heb ik de achtergrondkleur veranderd naar wit. Dit om het dromerige effect te creëren of dit zich afspeelt in zijn hoofd. Door verschillende achtergronden te gebruiken wil ik zo contrast creeëren tussen de scenes.
+De achtergrond heb ik bewust donker en rustig gehouden. De achtergrond moet niet afleiden van de video, die centraal staat. Ik heb voor een donkere kleur gekozen, omdat de film ook erg donker, grauw en duister eruit ziet. Vanaf 1:28 min. is er een flashback te zien. Vanaf dit moment heb ik de achtergrondkleur veranderd naar wit. Dit om het dromerige effect te creëren als of dit zich afspeelt in de hoofdrolspeler zijn hoofd. Door verschillende achtergronden te gebruiken wil ik zo contrast creeëren tussen de scenes.
 
-De scene begint met het bewegen van het beeld, om weer te geven dat de hoofdpersonage in een voertuig vliegt. De geluiden hierbij zijn natuurlijk niet weer te geven, maar om meer dit effect weer te geven heb ik ervoor gekozen om het beeld rustig heen en weer te bewegen of je zelf in het voertuig zit. 
+De scene begint met het bewegen van het beeld, om weer te geven dat de hoofdpersonage in een voertuig vliegt. Er is natuurlijk niet te horen dat hij vliegt, maar om meer dit effect weer te geven heb ik ervoor gekozen om het beeld rustig heen en weer te bewegen als of je zelf in het voertuig zit. 
 
 De alarmeffecten zijn rood gekleurd. Deze kleur geeft een groot contrast en valt gelijk op doordat de kleur rood een kleur is die geassocieerd wordt met [gevaar](https://suprevo.com/de-betekenis-van-kleuren/#:~:text=De%20kleur%20rood,ademhalingssnelheid%20en%20verhoogt%20de%20bloeddruk.). Deze kleur verhoogt je ademhaling en zorgt dat je alert bent. Dit effect ontstaat ook bij het horen van het alarm in het fragment. Daarom past deze kleur perfect bij dit moment en geeft hetzelfde effect als het fragment met geluid. Het eerste alarm wat zich afspeelt is een groot irritant alarm. Hiervoor heb ik dit proberen af te beelden door het scherm flink te laten schudden in combinatie met de rode achtergrond. In het fragment komt ook nog 3 keer hetzelfde soort alarm voorbij. Op het moment dat dit alarm afgaat heb ik het zo vormgegeven, met een boxshadow, dat het lijkt of de video rood oplicht. Omdat dit een constanter alarm is wat ook meerdere keren afgaat heb ik dit een minder heftige visual gegeven. Er is één soort 'politie' alarm. Dit alarm geeft mij het idee als of het rond om je heen afgaat. Dit heb ik visueel gemaakt door een linear-gradient te laten verplaatsen van links naar rechts. Omdat dit alarm geluid erg lijkt op een politie alarm heb ik ervoor gekozen om ook de kleuren te gebruiken hiervan. 
 
